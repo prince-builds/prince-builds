@@ -1,11 +1,14 @@
-
 <div align="center">
 
-# Hi, I'm Prince 👋
+# ⚡ Prince Yadav
 
-### Aspiring AI Engineer | GenAI & LLM Developer | Final Year B.Tech AI Student
+### `AI Engineer` :: `GenAI & LLM Developer` :: `Final Year B.Tech AI`
 
-💡 Passionate about building production-ready AI systems using **LLMs, RAG, and Agentic Workflows.**
+```
+> initializing_profile.exe
+> status: building production-grade AI systems with LLMs, RAG & Agentic Workflows
+> mode: always_shipping
+```
 
 <a href="https://www.linkedin.com/in/princeyadavtech">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,152 +22,135 @@
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=prince-builds&style=for-the-badge&color=blueviolet)
+
 </div>
 
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
-- 🎓 B.Tech Artificial Intelligence Student
-- 🤖 Focused on Generative AI, LLMs, and AI Engineering
-- 🔍 Interested in RAG Systems, AI Agents, and Semantic Search
-- 🛠️ Building practical AI applications and developer tools
-- 🚀 Exploring scalable AI application development and deployment
-- 🤝 Open to collaborating on AI and GenAI projects
+```yaml
+role: AI Engineer / GenAI Developer
+focus: LLMs, RAG Systems, AI Agents, Semantic Search
+philosophy: production-quality > proof-of-concept
+currently: shipping AI applications with real backend architecture
+status: open_to_collaboration
+```
+
+- 🎓 B.Tech in Artificial Intelligence — building for production, not just prototypes
+- 🧠 Deep focus on Generative AI, LLMs, and autonomous AI Agents
+- 🔍 Specialized in RAG pipelines, semantic search & knowledge retrieval
+- 🛠️ Ships practical, deployable AI tools — not tutorials
+- 🚀 Constantly pushing into scalable AI application architecture
+- 🤝 Always down to collaborate on ambitious AI/GenAI builds
 
 ---
 
-## 🚀 Featured Projects
+## `$ ls ./featured-projects`
 
 ### 🧠 RepoMind AI
-
 **AI-Powered Repository Intelligence Platform**
 
-An AI-powered developer tool that helps users understand GitHub repositories through natural language, semantic search, and retrieval-augmented generation.
+An AI copilot that lets you interrogate any GitHub repository in natural language — combining semantic code search with retrieval-augmented generation to turn a raw codebase into an explorable knowledge base.
 
-**Key Features**
+**Core Capabilities**
+- 🔍 Semantic code search across the entire repo
+- 🏗️ Automated architecture analysis & breakdown
+- 🧠 Retrieval-Augmented Generation (RAG) pipeline
+- 💬 Natural language codebase Q&A
+- 📚 Auto-generated repo explanations & insights
+- 🎯 AI-driven interview prep from real repo context
 
-- 🔍 Semantic code search
-- 🏗️ Repository architecture analysis
-- 🧠 Retrieval-Augmented Generation (RAG)
-- 💬 Natural language codebase queries
-- 📚 Repository explanations and insights
-- 🎯 AI-powered interview preparation
+**Stack:** `Python` `LangChain` `FAISS` `Sentence Transformers` `Groq` `Streamlit`
 
-**Tech Stack**
-
-Python • LangChain • FAISS • Sentence Transformers • Groq • Streamlit
-
-🔗 [Live Demo](https://repomind-ai-ffwanuyiptjr68bq4lncub.streamlit.app)
-
-🔗 [GitHub Repository](https://github.com/prince-builds/repomind-ai)
+🔗 [Live Demo](https://repomind-ai-ffwanuyiptjr68bq4lncub.streamlit.app) · 🔗 [Source](https://github.com/prince-builds/repomind-ai)
 
 ---
 
 ### 🤖 NexusAI
-
 **RAG-Powered AI Chatbot**
 
-A document-aware AI chatbot that uses Retrieval-Augmented Generation to provide contextual responses from a custom knowledge base.
+A document-aware chatbot engineered around Retrieval-Augmented Generation — grounding every response in a custom knowledge base instead of hallucinated guesses.
 
-**Key Features**
+**Core Capabilities**
+- 📄 Automated document ingestion & processing
+- 🔍 Vector-based semantic search
+- 🧠 Context-grounded retrieval pipeline
+- 💬 Context-aware conversational responses
+- 📚 Custom, swappable knowledge base
+- ⚡ Exposed via a clean REST API
 
-- 📄 Document processing
-- 🔍 Semantic search
-- 🧠 Vector-based retrieval
-- 💬 Context-aware AI responses
-- 📚 Custom knowledge base
-- ⚡ REST API integration
-
-**Tech Stack**
-
-React • FastAPI • Python • Groq • LangChain • ChromaDB • Sentence Transformers
+**Stack:** `React` `FastAPI` `Python` `Groq` `LangChain` `ChromaDB` `Sentence Transformers`
 
 ---
 
 ### 🎯 InterviewForge AI
-
 **AI-Powered Interview Preparation Platform**
 
-An AI application designed to help candidates prepare for technical interviews through resume analysis, job description analysis, skill gap detection, and personalized interview experiences.
+An end-to-end interview prep engine — parses resumes and job descriptions, surfaces skill gaps, then runs personalized mock interviews with real evaluation feedback.
 
-**Key Features**
-
-- 📄 Resume analysis
-- 💼 Job description analysis
+**Core Capabilities**
+- 📄 Automated resume analysis
+- 💼 Job description parsing & matching
 - 🔍 Skill gap identification
 - 🎯 Personalized interview generation
-- 🗣️ Mock interview rounds
-- 📊 Interview evaluation and improvement insights
+- 🗣️ Full mock interview simulation
+- 📊 Evaluation reports with improvement insights
 
-**Tech Stack**
-
-Python • Generative AI • LLMs • FastAPI • React
+**Stack:** `Python` `Generative AI` `LLMs` `FastAPI` `React`
 
 ---
 
-## 🛠️ Tech Stack
+## `$ cat tech_stack.json`
 
-### 💻 Programming Languages
-
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
 </p>
 
-### 🤖 Machine Learning & Deep Learning
-
+### Machine Learning & Deep Learning
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas"/>
 </p>
 
-- Machine Learning
-- Deep Learning
+- Machine Learning & Deep Learning
 - Natural Language Processing
-- Model Development and Evaluation
+- Model Development & Evaluation
 
-### 🧠 Generative AI & LLMs
-
+### Generative AI & LLMs
 <p>
 <img src="https://skillicons.dev/icons?i=huggingface"/>
 </p>
 
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- FAISS
-- ChromaDB
+- LangChain · LangGraph
+- FAISS · ChromaDB
 - Sentence Transformers
 - Prompt Engineering
 - AI Agents
 
-### ⚙️ Backend & Development
-
+### Backend & Development
 <p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github"/>
 </p>
 
 - REST API Development
-- Backend Application Development
+- Backend Application Architecture
 - API Integration
 - Application Deployment
 
-### ☁️ Deployment & MLOps
-
-- Docker
-- MLflow
-- Model Deployment
-- FastAPI
-- Streamlit
-- Git & GitHub
+### Deployment & MLOps
+`Docker` `MLflow` `FastAPI` `Streamlit` `Git & GitHub` · Model Deployment
 
 ---
 
-## 📚 Core Areas of Interest
+## `$ cat core_focus.md`
 
 <div align="center">
 
-| Area | Focus |
+| Domain | Focus |
 |---|---|
 | 🤖 Generative AI | LLMs & AI Applications |
 | 🔍 RAG | Semantic Search & Knowledge Retrieval |
@@ -177,38 +163,22 @@ Python • Generative AI • LLMs • FastAPI • React
 
 ---
 
-## 💡 What I Build
+## `$ echo $WHAT_I_BUILD`
 
 - AI-powered developer tools
 - RAG-based knowledge systems
 - LLM-powered applications
-- AI interview preparation tools
-- Intelligent search and retrieval systems
-- AI applications with backend APIs
+- AI interview preparation platforms
+- Intelligent search & retrieval systems
+- AI applications backed by real API architecture
 
 ---
 
-## 📊 GitHub Statistics
+## `$ open connection --type=collab`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prince-builds&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-builds&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=prince-builds&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in learning, building, and collaborating on meaningful AI projects.
+Always up for building, learning, and shipping meaningful AI systems.
 
 <a href="https://www.linkedin.com/in/princeyadavtech">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -222,14 +192,10 @@ I'm interested in learning, building, and collaborating on meaningful AI project
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
 ---
 
-<div align="center">
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for stopping by.
 
 **Building. Learning. Innovating with AI. 🚀**
 
-</div>****
+</div>
