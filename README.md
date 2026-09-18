@@ -1,11 +1,25 @@
 
+<div align="center">
+
 # Hi, I'm Prince 👋
 
-### Aspiring AI Engineer | GenAI & LLM Developer | B.Tech AI Student
+### Aspiring AI Engineer | GenAI & LLM Developer | Final Year B.Tech AI Student
 
-I build AI-powered applications that combine **Large Language Models, Retrieval-Augmented Generation (RAG), and intelligent agent workflows** to solve real-world problems.
+💡 Passionate about building production-ready AI systems using **LLMs, RAG, and Agentic Workflows.**
 
-My interests include AI Engineering, Generative AI, LLM Applications, and production-oriented AI systems.
+<a href="https://www.linkedin.com/in/princeyadavtech">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/prince-builds">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:princeyadavslp@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -16,7 +30,7 @@ My interests include AI Engineering, Generative AI, LLM Applications, and produc
 - 🔍 Interested in RAG Systems, AI Agents, and Semantic Search
 - 🛠️ Building practical AI applications and developer tools
 - 🚀 Exploring scalable AI application development and deployment
-- 🤝 Open to collaborating on innovative AI and GenAI projects
+- 🤝 Open to collaborating on AI and GenAI projects
 
 ---
 
@@ -26,16 +40,20 @@ My interests include AI Engineering, Generative AI, LLM Applications, and produc
 
 **AI-Powered Repository Intelligence Platform**
 
-An AI system that helps developers understand GitHub repositories through natural language.
+An AI-powered developer tool that helps users understand GitHub repositories through natural language, semantic search, and retrieval-augmented generation.
 
 **Key Features**
-- Repository architecture analysis
-- Semantic code search
-- Retrieval-Augmented Generation (RAG)
-- Codebase explanations
-- AI-powered developer insights
 
-**Tech Stack:** Python, LangChain, FAISS, Sentence Transformers, Groq, Streamlit
+- 🔍 Semantic code search
+- 🏗️ Repository architecture analysis
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 💬 Natural language codebase queries
+- 📚 Repository explanations and insights
+- 🎯 AI-powered interview preparation
+
+**Tech Stack**
+
+Python • LangChain • FAISS • Sentence Transformers • Groq • Streamlit
 
 🔗 [Live Demo](https://repomind-ai-ffwanuyiptjr68bq4lncub.streamlit.app)
 
@@ -47,16 +65,20 @@ An AI system that helps developers understand GitHub repositories through natura
 
 **RAG-Powered AI Chatbot**
 
-A document-aware AI chatbot designed to provide contextual answers using Retrieval-Augmented Generation.
+A document-aware AI chatbot that uses Retrieval-Augmented Generation to provide contextual responses from a custom knowledge base.
 
 **Key Features**
-- Document processing
-- Semantic search
-- Vector-based retrieval
-- Context-aware AI responses
-- Custom knowledge base
 
-**Tech Stack:** React, FastAPI, Python, Groq, LangChain, ChromaDB, Sentence Transformers
+- 📄 Document processing
+- 🔍 Semantic search
+- 🧠 Vector-based retrieval
+- 💬 Context-aware AI responses
+- 📚 Custom knowledge base
+- ⚡ REST API integration
+
+**Tech Stack**
+
+React • FastAPI • Python • Groq • LangChain • ChromaDB • Sentence Transformers
 
 ---
 
@@ -64,88 +86,150 @@ A document-aware AI chatbot designed to provide contextual answers using Retriev
 
 **AI-Powered Interview Preparation Platform**
 
-An AI application designed to help candidates prepare for technical interviews through resume analysis and personalized interview experiences.
+An AI application designed to help candidates prepare for technical interviews through resume analysis, job description analysis, skill gap detection, and personalized interview experiences.
 
 **Key Features**
-- Resume analysis
-- Job description analysis
-- Skill gap identification
-- Personalized interview generation
-- Interview evaluation and improvement insights
 
-**Tech Stack:** Python, Generative AI, LLMs, FastAPI, React
+- 📄 Resume analysis
+- 💼 Job description analysis
+- 🔍 Skill gap identification
+- 🎯 Personalized interview generation
+- 🗣️ Mock interview rounds
+- 📊 Interview evaluation and improvement insights
+
+**Tech Stack**
+
+Python • Generative AI • LLMs • FastAPI • React
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
+</p>
 
-### Machine Learning & Data Science
+### 🤖 Machine Learning & Deep Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas"/>
+</p>
 
-### Generative AI & LLMs
-
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Database-purple?style=for-the-badge)
-
-### Backend & Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📚 Core Interests
-
-- Generative AI & Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Agentic Workflows
+- Machine Learning
+- Deep Learning
 - Natural Language Processing
-- Semantic Search & Vector Databases
-- AI Application Development
-- Machine Learning & Deep Learning
-- MLOps & Deployment
+- Model Development and Evaluation
 
----
+### 🧠 Generative AI & LLMs
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince-builds&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-builds&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<p>
+<img src="https://skillicons.dev/icons?i=huggingface"/>
 </p>
 
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- LangGraph
+- FAISS
+- ChromaDB
+- Sentence Transformers
+- Prompt Engineering
+- AI Agents
+
+### ⚙️ Backend & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github"/>
+</p>
+
+- REST API Development
+- Backend Application Development
+- API Integration
+- Application Deployment
+
+### ☁️ Deployment & MLOps
+
+- Docker
+- MLflow
+- Model Deployment
+- FastAPI
+- Streamlit
+- Git & GitHub
+
 ---
 
-## 🤝 Connect With Me
+## 📚 Core Areas of Interest
 
-<p align="left">
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| 🤖 Generative AI | LLMs & AI Applications |
+| 🔍 RAG | Semantic Search & Knowledge Retrieval |
+| 🧠 AI Agents | Agentic Workflows & Automation |
+| 🛠️ AI Engineering | Production-Oriented AI Systems |
+| 📊 Machine Learning | Model Development & Evaluation |
+| ⚙️ Backend | APIs & AI Application Integration |
+
+</div>
+
+---
+
+## 💡 What I Build
+
+- AI-powered developer tools
+- RAG-based knowledge systems
+- LLM-powered applications
+- AI interview preparation tools
+- Intelligent search and retrieval systems
+- AI applications with backend APIs
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prince-builds&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-builds&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=prince-builds&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm interested in learning, building, and collaborating on meaningful AI projects.
+
 <a href="https://www.linkedin.com/in/princeyadavtech">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/prince-builds">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
 
-📩 **Email:** princeyadavslp@gmail.com
+<a href="https://github.com/prince-builds">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:princeyadavslp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+<div align="center">
+
+⭐ Thanks for visiting my profile!
+
+**Building. Learning. Innovating with AI. 🚀**
+
+</div>****
