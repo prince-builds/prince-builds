@@ -65,8 +65,7 @@ Clones and analyzes any public GitHub repository in seconds — building a stati
 
 **Stack:** `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `FastEmbed` `FAISS` `Groq LLM`
 
-[![Live App](https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white)](https://repomind-ai-puce.vercel.app)
-[![Streamlit Demo](https://img.shields.io/badge/Streamlit%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://repomind-ai-ffwanuyiptjr68bq4lncub.streamlit.app)
+[![Live App](https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white)](https://repomind-ai-puce.vercel.app/)
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prince-builds/repomind-ai)
 
 </td>
@@ -93,7 +92,7 @@ Parses resumes and job descriptions to compute a weighted skill-gap score, gener
 
 **Stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `FastAPI` `SQLAlchemy` `PostgreSQL` `Groq LLM` `FAISS`
 
-[![Live App](https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white)](https://interviewforge-frontend-qusq.onrender.com)
+[![Live App](https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white)](https://interviewforge-frontend-qusq.onrender.com/login)
 [![API Docs](https://img.shields.io/badge/API%20Docs-009688?style=flat-square&logo=fastapi&logoColor=white)](https://interviewforge-backend-busg.onrender.com/docs)
 [![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prince-builds/InterviewForge-AI)
 
