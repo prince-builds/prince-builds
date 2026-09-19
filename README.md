@@ -1,201 +1,219 @@
 <div align="center">
 
-# ⚡ Prince Yadav
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Prince+Yadav;AI+%2F+GenAI+Engineer;Building+with+LLMs%2C+RAG+%26+Agents;Final-Year+B.Tech+AI+Student" alt="Typing SVG" />
 
-### `AI Engineer` :: `GenAI & LLM Developer` :: `Final Year B.Tech AI`
+<br/>
 
-```
-> initializing_profile.exe
-> status: building production-grade AI systems with LLMs, RAG & Agentic Workflows
-> mode: always_shipping
-```
+<img src="https://img.shields.io/badge/AI%20ENGINEER-6C63FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/GENAI%20%2F%20LLM%20DEVELOPER-0EA5E9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FINAL%20YEAR%20B.TECH%20AI-10B981?style=for-the-badge&logoColor=white"/>
+
+<p></p>
+
+**Building production-grade AI systems with LLMs, Retrieval-Augmented Generation, and Agentic Workflows.**
 
 <a href="https://www.linkedin.com/in/princeyadavtech">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://github.com/prince-builds">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
 <a href="mailto:princeyadavslp@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=prince-builds&style=for-the-badge&color=blueviolet)
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+## 🧠 About Me
 
-```yaml
-role: AI Engineer / GenAI Developer
-focus: LLMs, RAG Systems, AI Agents, Semantic Search
-philosophy: production-quality > proof-of-concept
-currently: shipping AI applications with real backend architecture
-status: open_to_collaboration
-```
+<div align="center">
 
-- 🎓 B.Tech in Artificial Intelligence — building for production, not just prototypes
-- 🧠 Deep focus on Generative AI, LLMs, and autonomous AI Agents
-- 🔍 Specialized in RAG pipelines, semantic search & knowledge retrieval
-- 🛠️ Ships practical, deployable AI tools — not tutorials
-- 🚀 Constantly pushing into scalable AI application architecture
-- 🤝 Always down to collaborate on ambitious AI/GenAI builds
+| | |
+|---|---|
+| 🎓 | Final-year **B.Tech Artificial Intelligence** student, building for production — not just prototypes |
+| 🧠 | Deep focus on **Generative AI, LLMs, RAG pipelines,** and autonomous **AI Agents** |
+| 🔍 | Specialized in **semantic search**, vector retrieval, and knowledge-grounded generation |
+| 🛠️ | Ships complete, deployable systems — full-stack apps with real auth, APIs, and databases |
+| 🚀 | Actively exploring scalable AI application architecture and agentic workflows |
+| 🤝 | Open to collaborating on ambitious AI / GenAI engineering projects |
 
----
+</div>
 
-## `$ ls ./featured-projects`
+<br/>
 
-### 🧠 RepoMind AI
-**AI-Powered Repository Intelligence Platform**
+## 🚀 Featured Projects
 
-An AI copilot that lets you interrogate any GitHub repository in natural language — combining semantic code search with retrieval-augmented generation to turn a raw codebase into an explorable knowledge base.
+<br/>
 
-**Core Capabilities**
-- 🔍 Semantic code search across the entire repo
-- 🏗️ Automated architecture analysis & breakdown
-- 🧠 Retrieval-Augmented Generation (RAG) pipeline
-- 💬 Natural language codebase Q&A
-- 📚 Auto-generated repo explanations & insights
-- 🎯 AI-driven interview prep from real repo context
+<table>
+<tr>
+<td width="100%">
 
-**Stack:** `Python` `LangChain` `FAISS` `Sentence Transformers` `Groq` `Streamlit`
+### 🧠 [RepoMind AI](https://github.com/prince-builds/repomind-ai)
+**AI-Powered Repository Intelligence & Codebase Understanding Platform**
 
-🔗 [Live Demo](https://repomind-ai-ffwanuyiptjr68bq4lncub.streamlit.app) · 🔗 [Source](https://github.com/prince-builds/repomind-ai)
+Clones and analyzes any public GitHub repository in seconds — building a static dependency graph, embedding the codebase locally, and using RAG to generate architecture blueprints, per-file audits, cited Q&A, and interview prep packs.
 
----
+- 🏗️ Static architecture topology — entry points, dependency graphs, hub-file detection
+- 🧩 Multi-language parsing across Python, TypeScript, JavaScript, Go, Rust, Java, C/C++
+- ⚡ Local embeddings via **FastEmbed (ONNX Runtime)** — no GPU required
+- 🔍 Sub-millisecond semantic retrieval with **FAISS** (`IndexFlatIP`, cosine similarity)
+- 💬 RAG-powered repo Q&A with explicit file citations
+- 🎯 Auto-generated system design & code-review interview packs
 
-### 🤖 NexusAI
-**RAG-Powered AI Chatbot**
+**Stack:** `Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `FastAPI` `Python` `FastEmbed` `FAISS` `Groq LLM`
 
-A document-aware chatbot engineered around Retrieval-Augmented Generation — grounding every response in a custom knowledge base instead of hallucinated guesses.
+[![Live App](https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white)](https://repomind-ai-puce.vercel.app)
+[![Streamlit Demo](https://img.shields.io/badge/Streamlit%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://repomind-ai-ffwanuyiptjr68bq4lncub.streamlit.app)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prince-builds/repomind-ai)
 
-**Core Capabilities**
-- 📄 Automated document ingestion & processing
-- 🔍 Vector-based semantic search
-- 🧠 Context-grounded retrieval pipeline
-- 💬 Context-aware conversational responses
-- 📚 Custom, swappable knowledge base
-- ⚡ Exposed via a clean REST API
+</td>
+</tr>
+</table>
 
-**Stack:** `React` `FastAPI` `Python` `Groq` `LangChain` `ChromaDB` `Sentence Transformers`
+<br/>
 
----
+<table>
+<tr>
+<td width="100%">
 
-### 🎯 InterviewForge AI
+### 🎯 [InterviewForge AI](https://github.com/prince-builds/InterviewForge-AI)
 **AI-Powered Interview Preparation Platform**
 
-An end-to-end interview prep engine — parses resumes and job descriptions, surfaces skill gaps, then runs personalized mock interviews with real evaluation feedback.
+Parses resumes and job descriptions to compute a weighted skill-gap score, generates context-grounded technical/behavioral/situational interview questions, then evaluates candidate answers across four scored dimensions with model responses.
 
-**Core Capabilities**
-- 📄 Automated resume analysis
-- 💼 Job description parsing & matching
-- 🔍 Skill gap identification
-- 🎯 Personalized interview generation
-- 🗣️ Full mock interview simulation
-- 📊 Evaluation reports with improvement insights
+- 🔐 JWT auth with bcrypt hashing and strict per-user data isolation
+- 📄 Automated resume (PDF/DOCX) and JD parsing & structured extraction
+- 📊 Weighted readiness scoring (required 80% / preferred 20%) with matched vs. missing skills
+- 🤖 Context-aware question generation via Groq LLM (Technical, HR, Situational, Resume-based)
+- ✍️ Multi-criteria answer evaluation — correctness, depth, clarity, relevance
+- 📈 Historical performance analytics across sessions
 
-**Stack:** `Python` `Generative AI` `LLMs` `FastAPI` `React`
+**Stack:** `Next.js 15` `React 19` `TypeScript` `Tailwind CSS` `FastAPI` `SQLAlchemy` `PostgreSQL` `Groq LLM` `FAISS`
 
----
+[![Live App](https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white)](https://interviewforge-frontend-qusq.onrender.com)
+[![API Docs](https://img.shields.io/badge/API%20Docs-009688?style=flat-square&logo=fastapi&logoColor=white)](https://interviewforge-backend-busg.onrender.com/docs)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prince-builds/InterviewForge-AI)
 
-## `$ cat tech_stack.json`
+</td>
+</tr>
+</table>
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
-</p>
+<br/>
 
-### Machine Learning & Deep Learning
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas"/>
-</p>
+<table>
+<tr>
+<td width="100%">
 
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Model Development & Evaluation
+### 🤖 [NexusAI](https://github.com/prince-builds/nexusai-rag-chatbot)
+**RAG-Powered AI Chatbot**
 
-### Generative AI & LLMs
-<p>
-<img src="https://skillicons.dev/icons?i=huggingface"/>
-</p>
+A full-stack, document-aware chatbot that grounds every response in a custom knowledge base via Retrieval-Augmented Generation instead of relying on the model's raw memory.
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain · LangGraph
-- FAISS · ChromaDB
-- Sentence Transformers
-- Prompt Engineering
-- AI Agents
+- 📄 Custom knowledge base ingestion with LangChain text chunking
+- 🧬 Sentence-Transformer embeddings (`all-MiniLM-L6-v2`)
+- 🗂️ Vector storage & semantic similarity search via **ChromaDB**
+- 💬 Context-aware response generation through the Groq API
+- ⚡ Fully deployed full-stack app with a REST API backend
 
-### Backend & Development
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,github"/>
-</p>
+**Stack:** `React` `Vite` `Tailwind CSS` `FastAPI` `Python` `LangChain` `ChromaDB` `Groq LLM`
 
-- REST API Development
-- Backend Application Architecture
-- API Integration
-- Application Deployment
+[![Live App](https://img.shields.io/badge/Live%20App-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://eloquent-pie-48ad64.netlify.app)
+[![Backend API](https://img.shields.io/badge/Backend%20API-009688?style=flat-square&logo=fastapi&logoColor=white)](https://nexusai-rag-chatbot.onrender.com)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prince-builds/nexusai-rag-chatbot)
 
-### Deployment & MLOps
-`Docker` `MLflow` `FastAPI` `Streamlit` `Git & GitHub` · Model Deployment
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## `$ cat core_focus.md`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Domain | Focus |
-|---|---|
-| 🤖 Generative AI | LLMs & AI Applications |
-| 🔍 RAG | Semantic Search & Knowledge Retrieval |
-| 🧠 AI Agents | Agentic Workflows & Automation |
-| 🛠️ AI Engineering | Production-Oriented AI Systems |
-| 📊 Machine Learning | Model Development & Evaluation |
-| ⚙️ Backend | APIs & AI Application Integration |
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<br/><br/>
+
+**Machine Learning & Deep Learning**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<br/><br/>
+
+**Generative AI & LLMs**
+<br/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+
+<br/><br/>
+
+**Backend & Deployment**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-## `$ echo $WHAT_I_BUILD`
-
-- AI-powered developer tools
-- RAG-based knowledge systems
-- LLM-powered applications
-- AI interview preparation platforms
-- Intelligent search & retrieval systems
-- AI applications backed by real API architecture
-
----
-
-## `$ open connection --type=collab`
+## 📚 Core Areas of Focus
 
 <div align="center">
 
-Always up for building, learning, and shipping meaningful AI systems.
+| Area | Focus |
+|:---:|:---|
+| 🤖 **Generative AI** | LLMs & AI-powered applications |
+| 🔍 **RAG** | Semantic search & knowledge retrieval |
+| 🧠 **AI Agents** | Agentic workflows & automation |
+| 🛠️ **AI Engineering** | Production-oriented AI systems |
+| 📊 **Machine Learning** | Model development & evaluation |
+| ⚙️ **Backend** | APIs & AI application integration |
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Always open to learning, building, and collaborating on meaningful AI projects.
 
 <a href="https://www.linkedin.com/in/princeyadavtech">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/prince-builds">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:princeyadavslp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
+<br/><br/>
 
-⭐ Thanks for stopping by.
-
-**Building. Learning. Innovating with AI. 🚀**
+⭐ **Thanks for visiting my profile!**
+<br/>
+*Building. Learning. Innovating with AI.*
 
 </div>
