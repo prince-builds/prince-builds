@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Prince+Yadav;AI+%2F+GenAI+Engineer;Building+with+LLMs%2C+RAG+%26+Agents;Final-Year+B.Tech+AI+Student" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 <a href="https://github.com/prince-builds">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:princeyadavslp@gmail.com">
+<a href="mailto:princeyadav.dev04@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -52,6 +52,7 @@
 <td width="100%">
 
 ### 🧠 [RepoMind AI](https://github.com/prince-builds/repomind-ai)
+
 **AI-Powered Repository Intelligence & Codebase Understanding Platform**
 
 Clones and analyzes any public GitHub repository in seconds — building a static dependency graph, embedding the codebase locally, and using RAG to generate architecture blueprints, per-file audits, cited Q&A, and interview prep packs.
@@ -79,6 +80,7 @@ Clones and analyzes any public GitHub repository in seconds — building a stati
 <td width="100%">
 
 ### 🎯 [InterviewForge AI](https://github.com/prince-builds/InterviewForge-AI)
+
 **AI-Powered Interview Preparation Platform**
 
 Parses resumes and job descriptions to compute a weighted skill-gap score, generates context-grounded technical/behavioral/situational interview questions, then evaluates candidate answers across four scored dimensions with model responses.
@@ -107,6 +109,7 @@ Parses resumes and job descriptions to compute a weighted skill-gap score, gener
 <td width="100%">
 
 ### 🤖 [NexusAI](https://github.com/prince-builds/nexusai-rag-chatbot)
+
 **RAG-Powered AI Chatbot**
 
 A full-stack, document-aware chatbot that grounds every response in a custom knowledge base via Retrieval-Augmented Generation instead of relying on the model's raw memory.
@@ -205,7 +208,7 @@ Always open to learning, building, and collaborating on meaningful AI projects.
 <a href="https://github.com/prince-builds">
   <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:princeyadavslp@gmail.com">
+<a href="mailto:princeyadav.dev04@gmail.com">
   <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
